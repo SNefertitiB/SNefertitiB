@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SNefertitiB
 - 👀 I’m a MS student interested in AI, ML, NLP and software engineering
-- 🌱 I’m currently learning software developement in django and artificial inteligence.
+- 🌱 I'm a member of team UltraViolet at NYU Tandon on the Computer Vision and Controls sub teams.
 - 💞️ I’m looking to collaborate on anything! Always looking to learn new things!
 - 📫 How to reach me ...
 
