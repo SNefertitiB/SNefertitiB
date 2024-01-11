@@ -8,7 +8,7 @@
  - 👩🏾‍💻 making an ultrasonic theremin with a Raspberry Pi
  - 📈 helping a friend scrape the web for basketball stats
  - 📚 reading "The Dispossed" by Ursula Leguin and "Black No More" by George S. Schuyler
- - 🔎 looking for internships for the summer!
+ - 🔎 looking for a summer 2024 internship!
 <!---
 - 📫 How to reach me ...
 --->
