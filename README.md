@@ -7,7 +7,7 @@
 # Right now I'm...
  - 👩🏾‍💻 making an ultrasonic theremin with a Raspberry Pi
  - 📈 helping a friend scrape the web for basketball stats
- - 📚 reading "The Dispossed" by Ursula Leguin and "Teh Autobiography of Malcom X" as told by Alex Haley
+ - 📚 reading "The Dispossed" by Ursula Leguin and "The Autobiography of Malcom X" as told by Alex Haley
  - 🔎 looking for a summer 2025 internship and/or full time employment post-graduation!
 <!---
 - 📫 How to reach me ...
