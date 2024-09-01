@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything! Always looking to learn new things!
 
 # Right now I'm...
- - 👩🏾‍💻 making an ultrasonic theremin with a Raspberry Pi
+ - 👩🏾‍💻 working on a webapp!
  - 📈 helping a friend scrape the web for basketball stats
  - 📚 reading "The Dispossed" by Ursula Leguin and "The Autobiography of Malcom X" as told by Alex Haley
  - 🔎 looking for a summer 2025 internship and/or full time employment post-graduation!
