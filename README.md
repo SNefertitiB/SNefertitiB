@@ -1,14 +1,14 @@
 # About me
 - 👋 Hi, I’m @SNefertitiB
-- 👀 I’m a MS student interested in AI/ML, Robotics, and software engineering
-- 🌱 I'm in the final year of my MS program.
+- 👀 I’m a MS student interested in Software Engineering, AI/ML, and Robotics.
+- 🌱 I'm graduating with an MS in CS this January, 2025.
 - 💞️ I’m looking to collaborate on anything! Always looking to learn new things!
 
 # Right now I'm...
  - 👩🏾‍💻 working on a webapp!
  - 📈 helping a friend scrape the web for basketball stats
  - 📚 reading "The Dispossesssed" by Ursula Leguin and "The Autobiography of Malcom X" as told by Alex Haley
- - 🔎 looking for a summer 2025 internship and/or full time employment post-graduation!
+ - 🔎 Looking for full time employment!
 <!---
 - 📫 How to reach me ...
 --->
