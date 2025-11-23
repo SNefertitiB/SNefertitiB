@@ -6,7 +6,7 @@
 # Right now I'm...
  - 👩🏾‍💻 collaborating on [Groove](https://www.groovetheapp.com/home)...We're in Beta!
  - 📈 working on a micro-Saas web app tagetted at beverage managers
- - 📚 reading "The Grift: The Downward Spiral of Black Republicans from the Party of Lincoln to the Cult of Trump" by Clay Cane and "The Simple Path to Wealth" by JL Collins
+ - 📚 reading the first draft of a friend's first novel and "The Simple Path to Wealth" by JL Collins
  - 🔎 looking for full time employment!
 <!---
 - 📫 How to reach me ...
