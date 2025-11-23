@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on anything! Always looking to learn new things!
 
 # Right now I'm...
- - 👩🏾‍💻 working on a webapp!
- - 📈 helping a friend start a Saas buisness
- - 📚 reading "Parable of the Sower" by Octavia Buttler and "The Simple Path to Wealth" by JL Collins
+ - 👩🏾‍💻 collaborating on [Groove](https://www.groovetheapp.com/home)...We're in Beta!
+ - 📈 working on a micro-Saas web app tagetted at beverage managers
+ - 📚 reading "The Grift: The Downward Spiral of Black Republicans from the Party of Lincoln to the Cult of Trump" by Clay Cane and "The Simple Path to Wealth" by JL Collins
  - 🔎 looking for full time employment!
 <!---
 - 📫 How to reach me ...
