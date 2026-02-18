@@ -6,7 +6,7 @@
 # Right now I'm...
  - 👩🏾‍💻 collaborating on [Groove](https://www.groovetheapp.com/home)...We're in Beta!
  - 📈 working on a micro-Saas web app tagetted at beverage managers
- - 📚 reading the first draft of a friend's first novel and "The Simple Path to Wealth" by JL Collins
+ - 📚 reading "The Three-Body Problem" by Liu Cixin
  - 🔎 looking for full time employment!
 <!---
 - 📫 How to reach me ...
