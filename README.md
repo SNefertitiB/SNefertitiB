@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @SNefertitiB
-- 👀 I recently recievd a Masters of Science in Computer Science with coursework in Software Engineering, AI/ML, and Robotics.
+- 👀 I recently received a Masters of Science in Computer Science with coursework in Software Engineering, AI/ML, and Robotics.
 - 💞️ I’m looking to collaborate on anything! Always looking to learn new things!
 
 # Right now I'm...
