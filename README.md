@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on anything! Always looking to learn new things!
 
 # Right now I'm...
- - 👩🏾‍💻 collaborating on [Groove](https://www.groovetheapp.com/home)...We're in Beta!
- - 📈 working on a micro-Saas web app tagetted at beverage managers
+ - 👩🏾‍💻 collaborating on [Groove](https://www.groovetheapp.com/home)... We're in Beta!
+ - 📈 working on
+   - [Athenaeum](https://www.athenaeum.fyi)... Also in Beta! 
+   - a micro-Saas web app tagetted at beverage managers
  - 📚 reading "The Three-Body Problem" by Liu Cixin
  - 🔎 looking for full time employment!
 <!---
